@@ -23,7 +23,7 @@ export default function Login(){
   return (
     <div style={styles.container}>
       
-      <h1 style={styles.title}>Hesbon Employee System</h1>
+      <h1 style={styles.title}>Elewa EMS</h1>
 
       <form onSubmit={submit} style={styles.card}>
         <h3 style={styles.subtitle}>Login</h3>
